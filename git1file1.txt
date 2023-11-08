@@ -7,3 +7,4 @@ this is the sixth line
 this line is added from git3win
 this line is added after git3win from git1
 this line is to check git diff
+this is new line
